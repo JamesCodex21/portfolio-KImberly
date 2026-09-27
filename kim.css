@@ -100,3 +100,11 @@ footer{padding:2rem 6vw;color:var(--text-dim);font-size:0.85rem;text-align:cente
   html{scroll-behavior:auto;}
   *{transition:none !important;}
 }
+.about-photo{
+  width:140px;
+  height:140px;
+  object-fit:cover;
+  border-radius:50%;
+  border:2px solid var(--accent);
+  margin-bottom:1.4rem;
+}
